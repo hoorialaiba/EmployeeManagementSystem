@@ -1,0 +1,15 @@
+D:\Coding\C#\EMS\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Coding\C#\EMS\DAL\bin\Debug\net8.0\DAL.dll
+D:\Coding\C#\EMS\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Coding\C#\EMS\DAL\bin\Debug\net8.0\DTO.dll
+D:\Coding\C#\EMS\DAL\bin\Debug\net8.0\DTO.pdb
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.dll
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Coding\C#\EMS\DAL\obj\Debug\net8.0\ref\DAL.dll
