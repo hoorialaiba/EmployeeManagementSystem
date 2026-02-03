@@ -1,0 +1,17 @@
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\BLL.dll
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\DAL.dll
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\DTO.dll
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Coding\C#\EMS\BLL\bin\Debug\net8.0\DTO.pdb
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.dll
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Coding\C#\EMS\BLL\obj\Debug\net8.0\ref\BLL.dll
