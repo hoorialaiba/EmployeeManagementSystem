@@ -1,2 +1,0 @@
-2,SE,Software Engineering
-1,CS,Computer Science
