@@ -1,6 +1,5 @@
 # Employee Management System
 
-![Platform](https://img.shields.io/badge/Platform-Console-success)
 ![C#](https://img.shields.io/badge/C%23-.NET-blue?logo=csharp)
 ![Architecture](https://img.shields.io/badge/Architecture-N--Tier-orange)
 ![Platform](https://img.shields.io/badge/Platform-Console-success)
